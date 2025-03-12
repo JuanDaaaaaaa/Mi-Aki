@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34902.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Aki", "Aki\Aki.pyproj", "{E2C29BC3-CC4E-4243-A62C-D0418C9FE996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2C29BC3-CC4E-4243-A62C-D0418C9FE996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C29BC3-CC4E-4243-A62C-D0418C9FE996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF95776-27BF-4DCA-9388-93BC68A52D48}
+	EndGlobalSection
+EndGlobal
